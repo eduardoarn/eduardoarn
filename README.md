@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Eduardo Miranda! 💻📚📑
 
 <!--
 **eduardoarn/eduardoarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Estatísticas do meu GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoarn)](https://github.com/eduardoarn/eduardoarn)
