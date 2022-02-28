@@ -2,7 +2,7 @@
 
 :department_store: Analista em Tecnologia da Informação na [Prefeitura Municipal de Araguaína](https://www.araguaina.to.gov.br).</br>
 :computer: Desenvolvedor Full Stack Pleno [Estúdio MD3](https://www.estudiomd3.com).</br>
-:department_store: Analista em Tecnologia da Informação na [Prefeitura Municipal de Araguaína](https://www.araguaina.to.gov.br).</br> </br>
+</br>
 :school: Graduado em Sistemas de Informação pelo [UNITPAC](https://www.unitpac.com.br) - [Mural de Graduação](https://www.unitpac.com.br/portal-do-egresso/sistemas-de-informacao/2009-2)
 <br>
 <br>
