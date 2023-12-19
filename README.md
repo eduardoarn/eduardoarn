@@ -1,9 +1,9 @@
 ### Olá, sou Eduardo! 💻📚📑
 
-Trabalho Atual
+Trabalho Atual:</br>
     :department_store: Analista de Tecnologia da Informação [EBSERH - HDT-UFT](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-norte/hdt-uft).</br>
 
-Trabalhos rescentes:
+Trabalhos rescentes:</br>
     :department_store: Programador dotnet Senior [Processor - Gotobiz](https://www.processor.com.br).</br>
     :department_store: Desenvolvedor dotnet Senior [Stefanini](https://stefanini.com/).</br>
     :computer: Desenvolvedor Full Stack Senior [Estúdio MD3](https://www.estudiomd3.com).</br>
