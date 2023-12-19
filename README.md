@@ -1,9 +1,17 @@
 ### Olá, sou Eduardo! 💻📚📑
 
-:department_store: Desenvolvedor dotnet Senior [Stefanini](https://stefanini.com/).</br>
-:computer: Desenvolvedor Full Stack Senior [Estúdio MD3](https://www.estudiomd3.com).</br>
+Trabalho Atual
+    :department_store: Analista de Tecnologia da Informação [EBSERH - HDT-UFT](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-norte/hdt-uft).</br>
+
+Trabalhos rescentes:
+    :department_store: Programador dotnet Senior [Processor - Gotobiz](https://www.processor.com.br).</br>
+    :department_store: Desenvolvedor dotnet Senior [Stefanini](https://stefanini.com/).</br>
+    :computer: Desenvolvedor Full Stack Senior [Estúdio MD3](https://www.estudiomd3.com).</br>
+    :department_store: Analista de Tecnologia da Informação [Prefeitura Municipal de Araguaína](https://www.araguaina.to.gov.br/).</br>
 </br>
 :school: Graduado em Sistemas de Informação pelo [UNITPAC](https://www.unitpac.com.br) - [Mural de Graduação](https://www.unitpac.com.br/portal-do-egresso/sistemas-de-informacao/2009-2)
+</br>
+[![autocomplete](https://codeium.com/badges/user/eduardoarn/autocomplete)](https://codeium.com/profile/eduardoarn)
 <br>
 <br>
 ### :dart: Tecnologias
